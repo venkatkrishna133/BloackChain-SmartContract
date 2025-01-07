@@ -34,3 +34,10 @@ This is a fully functional **NFT Marketplace** built using **React** for the fro
  - Navigate to the nft-backend folder and install dependencies:
     - cd ../nft-backend
     - npm install
+4. Set Up Smart Contracts:
+ - In the nft-backend folder, navigate to the smart contract files.
+ - Deploy the contract to the Goerli test network using Hardhat:
+     - npx hardhat run scripts/deploy.js --network goerli
+5. Set Up Environment Variables:
+ - In both the frontend and backend, you may need to set environment variables such as the Infura API key, MetaMask private key, and Goerli wallet addresses for testing.
+ - Create a .env file in both the frontend and backend directories and configure the required variables.
