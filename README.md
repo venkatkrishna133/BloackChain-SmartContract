@@ -60,7 +60,7 @@ This is a fully functional **NFT Marketplace** built using **React** for the fro
 
 ---
 
-**🌐 Frontend Demo**:
+## 🌐 Frontend Demo
 You can test the frontend by connecting your MetaMask wallet and minting NFTs using the Goerli test network. The UI allows you to connect your wallet, view available NFTs, and mint new ones.
 
 ---
