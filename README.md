@@ -27,12 +27,10 @@ This is a fully functional **NFT Marketplace** built using **React** for the fro
 
 2. Install Dependencies for Frontend:
 Navigate to the nft-frontend folder and install dependencies:
-```bash
      cd nft-frontend
      npm install
 
 3. Install Dependencies for Backend:
 Navigate to the nft-backend folder and install dependencies:
-```bash
      cd ../nft-backend
      npm install
