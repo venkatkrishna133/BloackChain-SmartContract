@@ -41,3 +41,29 @@ This is a fully functional **NFT Marketplace** built using **React** for the fro
 5. Set Up Environment Variables:
  - In both the frontend and backend, you may need to set environment variables such as the Infura API key, MetaMask private key, and Goerli wallet addresses for testing.
  - Create a .env file in both the frontend and backend directories and configure the required variables.
+6. Run the Application:
+ - Start the backend:
+    - cd nft-backend
+    - npm start
+ - Start the frontend:
+    - cd ../nft-frontend
+    - npm start
+ - This should launch the app in your browser, where you can connect your MetaMask wallet and interact with the application.
+
+---
+
+**👤 About the Author**:
+
+- Name: Venkatraman.
+- GitHub: venkatkrishna133.
+- Email: developingccode@gmail.com.
+
+---
+
+**🌐 Frontend Demo**:
+You can test the frontend by connecting your MetaMask wallet and minting NFTs using the Goerli test network. The UI allows you to connect your wallet, view available NFTs, and mint new ones.
+
+---
+
+**📄 License**:
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE.md) file for details.
