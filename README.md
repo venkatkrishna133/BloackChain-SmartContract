@@ -4,7 +4,7 @@
 
 This is a fully functional **NFT Marketplace** built using **React** for the frontend, **Node.js** for the backend, and **Hardhat** for deploying and managing smart contracts on the **Goerli test network**. This project allows users to mint NFTs on the blockchain, providing an interactive and decentralized experience.
 
-> **Note**: As this is deployed on a test network (Goerli), the NFT creation is limited and requires minimal balance to mint. Currently, I do not have sufficient balance in my Goerli account to mint NFTs, but the contract works as intended.
+> **Note**:As this is deployed on a test network (Goerli), NFT creation is limited and requires a minimal balance to mint. Currently, before you can mint, you need to have some minimum balance in your MetaMask wallet to receive free ETH for testing. Please do not use real funds in the test environment, as they could be lost. However, the contract works as intended.
 
 ---
 
