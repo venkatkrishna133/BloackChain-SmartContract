@@ -21,12 +21,18 @@ This is a fully functional **NFT Marketplace** built using **React** for the fro
 ## 🔧 Installation & Setup
 
 ### **1. Clone the Repository**:
-   ```bash
+    ```bash
         git clone https://github.com/your-username/BloackChain-SmartContract.git
         cd BloackChain-SmartContract
 
-### **2. Install Dependencies for Frontend**:
-Navigate to the nft-frontend folder and install dependencies:
-   ```bash
-        cd nft-frontend
-        npm install
+Open in Android Studio:
+
+Open Android Studio and select "Open an Existing Project."
+Navigate to the project folder and open it.
+Set Up Dependencies:
+
+Ensure all required dependencies are installed. Use Gradle sync.
+Run the App:
+
+Connect your device or use an emulator.
+Click the "Run" button in Android Studio.
