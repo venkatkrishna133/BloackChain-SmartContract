@@ -31,6 +31,6 @@ This is a fully functional **NFT Marketplace** built using **React** for the fro
      - npm install
 
 3. Install Dependencies for Backend:
-   - Navigate to the nft-backend folder and install dependencies:
+ - Navigate to the nft-backend folder and install dependencies:
     - cd ../nft-backend
     - npm install
