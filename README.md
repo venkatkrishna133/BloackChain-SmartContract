@@ -21,12 +21,11 @@ This is a fully functional **NFT Marketplace** built using **React** for the fro
 ## 🔧 Installation & Setup
 
 ### **1. Clone the Repository**:
-
-```bash
-git clone https://github.com/your-username/BloackChain-SmartContract.git
-cd BloackChain-SmartContract
+    ```bash
+        git clone https://github.com/your-username/BloackChain-SmartContract.git
+        cd BloackChain-SmartContract
 2. Install Dependencies for Frontend:
 Navigate to the nft-frontend folder and install dependencies:
-```bash
-cd nft-frontend
-npm install
+   ```bash
+        cd nft-frontend
+        npm install
